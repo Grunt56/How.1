@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653189374 source:c:\users\mateu\desktop\how calculadora\howcalculadora\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+	<stdlib.h>
+
